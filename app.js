@@ -37,7 +37,7 @@ const app=express();
 
 //enable cors request
 app.use(cors({
-    origin: 'https://vechicle-capstone-fe.vercel.app/',  // allow all origin
+    origin: 'https://vechicle-capstone-fe.vercel.app',  // allow all origin
     credentials: true
 }));
 
