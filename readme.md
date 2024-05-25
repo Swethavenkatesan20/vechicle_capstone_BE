@@ -35,6 +35,10 @@ backend has express nodejs and mongodb as database
            delete/api/users/profile
         logout user
             GET/api/users/logout
+
+             2.services
+ GET/api/services/
+ POST/api/services/
    2.services
            POST/api/services/
            GET/api/services/
