@@ -47,9 +47,6 @@ backend has express nodejs and mongodb as database
     
  
  
-   2.services
-           POST/api/services/
-           GET/api/services/
    3.appointments
            POST/api/appointments
            GET/api/appointments
